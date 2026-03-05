@@ -10,7 +10,7 @@ Currently building projects with Node.js, Express, django and MongoDB while cons
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akshatvermagms@gmail.com](mailto:akshatvermagms@gmail.com)
-* 🧠  I'm currently learning Currently learning system design and DevOps, and building projects across backend and frontend using modern web technologies.
+* 🧠  I'm currently learning system design and DevOps, and building projects across backend and frontend using modern web technologies.
 * 👥  I'm looking to collaborate on Open to collaborating on meaningful backend and full-stack projects.
 
 <p align="left">
