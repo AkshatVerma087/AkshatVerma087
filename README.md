@@ -77,18 +77,19 @@ Currently building projects with **Node.js, Express, Django, and MongoDB** while
 
 ---
 
-## 🏆 Competitive Programming & DSA
+## 🏆 Competitive Programming & DSA Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-akshat__verma087-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshat_verma087/)
-[![Codolio](https://img.shields.io/badge/Codolio-akshat__verma087-4B8BBE?style=for-the-badge&logo=codechef)](https://codolio.com/profile/akshat_verma087)
+[![LeetCode](https://img.shields.io/badge/LeetCode-akshat__verma087-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshat_verma087/)
+[![Codolio](https://img.shields.io/badge/Codolio-akshat__verma087-4B8BBE?style=for-the-badge&logo=codechef&logoColor=white)](https://codolio.com/profile/akshat_verma087)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Visit%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akshatvermagms)
 
 </div>
 
-**Active on:** 
-- 🟨 **LeetCode** - Solving DSA problems consistently
-- 📊 **Codolio** - Tracking competitive programming progress
+**Active Profiles:**
+- 🟨 **[LeetCode](https://leetcode.com/u/akshat_verma087/)** - Solving DSA problems consistently | [View Profile →](https://leetcode.com/u/akshat_verma087/)
+- 📊 **[Codolio](https://codolio.com/profile/akshat_verma087)** - Tracking competitive programming progress | [View Profile →](https://codolio.com/profile/akshat_verma087)
 
 ---
 
