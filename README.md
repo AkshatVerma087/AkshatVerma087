@@ -1,22 +1,135 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Akshat Verma
-=====================================================================================================================================
+<!-- GitHub Profile README -->
+<div align="center">
 
-Full Stack Web Developer | Software Engineer
---------------------------------------------
+# 👋 Hi, I'm Akshat Verma
 
-Computer Science student focused on C++, Data Structures & Algorithms, and backend development.
+**Full Stack Web Developer | Software Engineer | DSA Enthusiast**
 
-Currently building projects with Node.js, Express, django and MongoDB while consistently solving DSA problems.
+[![GitHub](https://img.shields.io/badge/GitHub-AkshatVerma087-black?style=for-the-badge&logo=github)](https://github.com/AkshatVerma087)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Verma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AkshatVerma087)
+[![Email](https://img.shields.io/badge/Email-akshatvermagms%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:akshatvermagms@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-akshaf__verma087-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/akshaf__verma087)
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [akshatvermagms@gmail.com](mailto:akshatvermagms@gmail.com)
-* 🧠  I'm currently learning system design and DevOps, and building projects across backend and frontend using modern web technologies.
-* 👥  I'm looking to collaborate on Open to collaborating on meaningful backend and full-stack projects.
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+## 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/https://github.com/AkshatVerma087" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akshat-verma-8a61b529a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+Computer Science student focused on **C++, Data Structures & Algorithms, and backend development**. I'm passionate about building scalable web applications and solving complex problems.
+
+Currently building projects with **Node.js, Express, Django, and MongoDB** while consistently solving **DSA problems**. Always excited to learn new technologies and best practices in modern web development.
+
+- 🌍 **Based in:** India
+- ✉️ **Contact:** akshatvermagms@gmail.com
+- 🧠 **Currently Learning:** System Design, DevOps, Microservices Architecture
+- 👥 **Open to:** Collaborating on meaningful backend and full-stack projects
+- 💼 **Looking For:** Internships in Full-Stack Development & Backend Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatVerma087&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatVerma087&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🥁 [Drum Machine](https://github.com/AkshatVerma087/drum-machine)
+Interactive drum machine application built with **React 18** and **Babel**. Click pads or press keyboard keys to trigger sounds. All FreeCodeCamp user stories implemented.
+- **Tech:** React 18, Babel, HTML5 Audio, CSS3
+- **Features:** Click & Keyboard Controls, Real-time Display, Responsive Design
+
+### 💬 [Random Quote Machine](https://github.com/AkshatVerma087/random-quote-machine)
+Dynamic quote generator with color-changing animations and Twitter sharing.
+- **Tech:** React 18, API Integration
+- **Features:** Random Quotes, Color Transitions, Tweet Integration
+
+### 📝 [Markdown Previewer](https://github.com/AkshatVerma087/markdown-previewer)
+Real-time markdown editor and previewer with live update functionality.
+- **Tech:** React, HTML5, CSS3
+- **Features:** Live Preview, Markdown Syntax Highlighting
+
+---
+
+## 🎓 Learning & Growth
+
+- **DSA:** Consistently solving problems on LeetCode and HackerRank
+- **System Design:** Learning scalable architecture patterns
+- **DevOps:** Exploring Docker, Kubernetes, and CI/CD pipelines
+- **Backend:** Master Node.js, Express, and database optimization
+- **Frontend:** Advance React skills with Next.js and modern patterns
+
+---
+
+## 💡 What I'm Interested In
+
+✨ Building scalable backend systems  
+✨ Full-stack web applications  
+✨ Data structures and algorithms  
+✨ Open source contributions  
+✨ Learning new technologies and frameworks  
+✨ Solving real-world problems with code  
+
+---
+
+## 📬 Get In Touch
+
+I'd love to connect! Feel free to reach out for:
+- 💼 **Project Collaborations:** Full-stack and backend projects
+- 💬 **Discussion:** Tech, DSA, System Design, and Web Development
+- 📧 **Email:** [akshatvermagms@gmail.com](mailto:akshatvermagms@gmail.com)
+
+---
+
+<div align="center">
+
+### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Made with ❤️ by Akshat Verma**
+
+</div>
