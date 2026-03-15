@@ -77,6 +77,21 @@ Currently building projects with **Node.js, Express, Django, and MongoDB** while
 
 ---
 
+## 🏆 Competitive Programming & DSA
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-akshat__verma087-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshat_verma087/)
+[![Codolio](https://img.shields.io/badge/Codolio-akshat__verma087-4B8BBE?style=for-the-badge&logo=codechef)](https://codolio.com/profile/akshat_verma087)
+
+</div>
+
+**Active on:** 
+- 🟨 **LeetCode** - Solving DSA problems consistently
+- 📊 **Codolio** - Tracking competitive programming progress
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🥁 [Drum Machine](https://github.com/AkshatVerma087/drum-machine)
