@@ -1,140 +1,128 @@
 <div align="center">
 
-<p><sub>ENGINEERING PORTFOLIO · AKSHAT VERMA · 2027 BATCH</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=living-identity&label=Akshat%20Verma%20&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=living-identity&label=Akshat%20Verma%20&v=wow-living-identity-1&mode=dark" width="100%" alt="Akshat Verma animated Living Identity portrait and ASCII name" />
-</picture>
-
-<h3>Software Engineer · Full Stack & Backend Systems</h3>
-<p>
-  Building high-throughput backends, distributed data pipelines, and production web applications.<br />
-  <strong>SWE Intern at ReflectWise Labs</strong> · Computer Science @ LPU ('27)
-</p>
+<table width="100%">
+<tr>
+<td width="66%" valign="middle">
+<p><sub>ENGINEERING SIGNAL BRIEF · AKSHATVERMA087</sub></p>
+<h1>Akshat Verma</h1>
+<h2>Full-Stack & Backend Systems Engineer</h2>
+<p>Building high-throughput backends, distributed data pipelines, and production web applications.</p>
+<p><strong>SWE Intern at ReflectWise Labs</strong> · B.Tech CSE @ LPU ('27)</p>
 
 <p>
   <a href="https://linkedin.com/in/akshat-verma087/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akshatvermagms@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/AkshatVerma087/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-
-</div>
-
-<p align="center"><sub>✦ ──────────────────────────────────────────────────────────── ✦</sub></p>
-
-## ⚡ Core Signal & Competencies
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### What I Focus On
-- **High-Throughput Backends:** Multi-tenant isolation, Redis sliding-window rate limiting, and PostgreSQL index optimization (`EXPLAIN ANALYZE`).
-- **Distributed & AI Pipelines:** LangGraph DAG workflows, concurrent async fan-outs, and context payload sanitization.
-- **Production Discipline:** Runtime type-safety (Zod), tamper-proof audit logging (`REVOKE`), and automated CI/CD (GitHub Actions, Docker).
-
 </td>
-<td width="40%" valign="top">
-
-### Competitive & Problem Solving
-- **LeetCode:** **600+ Problems Solved** *(360+ Medium, 70+ Hard)*
-- **Contest Rating:** **1658** *(Top 19% globally)*
-- **Primary Languages:** TypeScript, JavaScript, Python, C++, Java, SQL
-
+<td width="34%" valign="middle" align="center">
+<img src="./assets/profile.jpg" width="165" height="165" style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d; box-shadow: 0 4px 16px rgba(0,0,0,0.5);" alt="Akshat Verma avatar" />
 </td>
 </tr>
 </table>
-
-<p align="center"><sub>✦ ──────────────────────────────────────────────────────────── ✦</sub></p>
-
-## 🛠️ The Tech Stack
-
-<div align="center">
-
-```
-Languages  ::  TypeScript · JavaScript · Python · Java · C++ · SQL
-Backend    ::  Node.js · Express.js · Next.js · REST APIs · Socket.IO · Prisma ORM · Zod · JWT
-Databases  ::  PostgreSQL · MongoDB (2dsphere) · Redis · MySQL · Supabase
-DevOps/Ops ::  Docker · GitHub Actions (CI/CD) · Linux · Postman · Artillery · Pino
-```
-
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Akshat Verma animated technology stack" />
-</picture>
-
-<p align="center"><sub>✦ ──────────────────────────────────────────────────────────── ✦</sub></p>
-
-## 🚀 Featured Production Systems
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&repos=akshatverma087%2Fmulti-tenant-saas-backend%2Cakshatverma087%2FAi-investment-research-tracker%2Cakshatverma087%2FCivicFix&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&repos=akshatverma087%2Fmulti-tenant-saas-backend%2Cakshatverma087%2FAi-investment-research-tracker%2Cakshatverma087%2FCivicFix&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Akshat Verma animated project constellation" />
-</picture>
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-
-### 🏢 [multi-tenant-saas-backend](https://github.com/AkshatVerma087/multi-tenant-saas-backend)
-**Scalable Multi-Tenant REST Engine**
-- **Isolation:** Row-level tenant isolation via cryptographically injected JWT IDs in SQL queries.
-- **Scale:** Sustained **1,462 req/s** at **5ms p50 latency** with 0% error rate under Autocannon.
-- **DB Optimization:** **133x query speedup** (14.92ms → 0.11ms) via B-Tree indexing.
-- **Stack:** `Node.js` `PostgreSQL` `Redis` `Docker`
-
+  <h3>Role fit</h3>
+  <p>Full-Stack / Backend Engineer<br />TypeScript · JavaScript · Python · SQL · Java</p>
 </td>
 <td width="33%" valign="top">
-
-### 🤖 [Ai-investment-research-tracker](https://github.com/AkshatVerma087/Ai-investment-research-tracker)
-**Autonomous Financial Research Agent**
-- **Concurrency:** 8-node LangGraph DAG with 3-way parallel fan-out (**95% faster**, 8.8s → 391ms).
-- **Token Hygiene:** Sanitized raw payloads into 10 key ratios, reducing LLM tokens by **82%** (~7k tokens saved).
-- **Caching:** Multi-tier Upstash Redis caching serving repeat equity reports in **<5ms**.
-- **Stack:** `Next.js` `LangGraph` `Prisma` `Redis`
-
+  <h3>Problem Solving</h3>
+  <p><strong>600+</strong> LeetCode Problems Solved<br />Contest Rating <strong>1658</strong> (Top 19% globally)</p>
 </td>
 <td width="33%" valign="top">
-
-### 🏙️ [CivicFix](https://github.com/AkshatVerma087/CivicFix)
-**Real-Time Civic Issue Reporting Platform**
-- **Geospatial:** MongoDB `2dsphere` queries executing in **4ms** across 1,200+ issues.
-- **Real-Time:** Sub-**2ms** status broadcasts via Socket.IO bidirectional channels.
-- **Stress-Tested:** Sustained **0% error rate** across 200 virtual users (800 chained requests @ 42 req/s).
-- **Stack:** `React.js` `Node.js` `MongoDB` `Socket.IO`
-- 🌐 [Live Demo](https://civic-fix-three.vercel.app/)
-
+  <h3>Engineering Focus</h3>
+  <p>High-throughput REST APIs, multi-tenant architectures & async AI pipelines</p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ──────────────────────────────────────────────────────────── ✦</sub></p>
+<p><sub>Focused on writing resilient, type-safe production code with high performance.</sub></p>
 
-## 📊 Activity & Momentum
+<h2>Selected systems & work</h2>
 
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Akshat Verma animated GitHub signal" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&repos=akshatverma087%2Fmulti-tenant-saas-backend%2Cakshatverma087%2FAi-investment-research-tracker%2Cakshatverma087%2FCivicFix&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&repos=akshatverma087%2Fmulti-tenant-saas-backend%2Cakshatverma087%2FAi-investment-research-tracker%2Cakshatverma087%2FCivicFix&v=recruiter-projects-1&mode=dark" width="100%" alt="Akshat Verma selected projects" />
 </picture>
+</td>
+<td width="45%" valign="top">
+<h3><a href="https://github.com/AkshatVerma087/multi-tenant-saas-backend">🏢 multi-tenant-saas-backend</a></h3>
+<p>Multi-tenant Node.js and PostgreSQL backend with cryptographic JWT tenant-scoped SQL isolation, Redis rate limiting, 4-tier RBAC, and B-Tree indexing.</p>
+<p><sub>Node.js · PostgreSQL · Redis · Docker</sub></p>
+<p><a href="https://github.com/AkshatVerma087/multi-tenant-saas-backend">Explore the repository →</a></p>
+</td>
+</tr>
+</table>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/AkshatVerma087/Ai-investment-research-tracker">🤖 Ai-investment-research-tracker</a></h3>
+  <p>Autonomous financial research agent built on an 8-node LangGraph DAG with 3-way parallel fan-out across Tavily, FMP, and SEC EDGAR, backed by Upstash Redis caching.</p>
+  <p><sub>Next.js · LangGraph · Prisma · Redis</sub></p>
+  <p><a href="https://github.com/AkshatVerma087/Ai-investment-research-tracker">Explore repository →</a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/AkshatVerma087/CivicFix">🏙️ CivicFix</a></h3>
+  <p>Full-stack civic issue reporting platform with 3-role access, MongoDB 2dsphere geolocation filtering, and Socket.IO real-time event broadcasting.</p>
+  <p><sub>React.js · Node.js · MongoDB · Socket.IO</sub> · <a href="https://civic-fix-three.vercel.app/">Live Demo →</a></p>
+  <p><a href="https://github.com/AkshatVerma087/CivicFix">Explore repository →</a></p>
+</td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=akshatverma087&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144297460%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Akshat Verma contribution energy field" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&v=recruiter-stack-1&mode=dark" width="100%" alt="Akshat Verma technology stack" />
 </picture>
+</p>
 
-<p align="center"><sub>✦ ──────────────────────────────────────────────────────────── ✦</sub></p>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>Type-Safe Apps</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>Node.js / Express</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>AI & Workflows</sub></td>
+<td width="20%" align="center"><strong>PostgreSQL</strong><br /><sub>SQL & Indexing</sub></td>
+<td width="20%" align="center"><strong>Docker</strong><br /><sub>CI/CD & Containers</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<h2>Consistency signal</h2>
 
-## 🤝 Let's Connect & Build
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=akshatverma087&theme=github-dark&avatar=https%3A%2F%2Fraw.githubusercontent.com%2FAkshatVerma087%2FAkshatVerma087%2Fmain%2Fassets%2Fprofile.jpg&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Akshat Verma contribution activity" />
+</picture>
+</p>
 
-I'm always open to discussing backend system design, distributed data pipelines, or high-impact engineering opportunities.
+<hr />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat--verma087-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat-verma087/)
-[![Email](https://img.shields.io/badge/Email-akshatvermagms%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:akshatvermagms@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AkshatVerma087-181717?style=for-the-badge&logo=github)](https://github.com/AkshatVerma087)
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+  <h2>Let's talk about the next build</h2>
+  <p>Open to software engineering roles, high-impact teams, and ambitious technical products.</p>
+</td>
+<td width="35%" valign="middle" align="right">
+  <p>
+    <a href="https://linkedin.com/in/akshat-verma087/">LinkedIn</a> &nbsp;|&nbsp; 
+    <a href="mailto:akshatvermagms@gmail.com">Email</a> &nbsp;|&nbsp; 
+    <a href="https://github.com/AkshatVerma087">GitHub</a>
+  </p>
+</td>
+</tr>
+</table>
 
-</div>
+<p align="center"><sub>Akshat Verma · Recruiter-ready profile</sub></p>
