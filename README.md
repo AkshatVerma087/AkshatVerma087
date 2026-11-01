@@ -5,14 +5,14 @@
 <td width="66%" valign="middle">
 <p><sub>ENGINEERING SIGNAL BRIEF · AKSHATVERMA087</sub></p>
 <h1>Akshat Verma</h1>
-<h2>Full-Stack & Backend Systems Engineer</h2>
+<h2>Software Engineer</h2>
 <p>Building high-throughput backends, distributed data pipelines, and production web applications.</p>
-<p><strong>SWE Intern at ReflectWise Labs</strong> · B.Tech CSE @ LPU ('27)</p>
+
 
 <p>
   <a href="https://linkedin.com/in/akshat-verma087/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akshatvermagms@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/AkshatVerma087/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/akshat_verma087/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 </td>
 <td width="34%" valign="middle" align="center">
